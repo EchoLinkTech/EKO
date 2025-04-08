@@ -1,6 +1,6 @@
 
 
-# EKO Blockchain: A Next-Generation Blockchain for the AI Age with Advanced Stream Payments
+# EKO: A Next-Generation Blockchain Platform for the AI Age with Advanced Stream Payments
 
 ## Executive Summary
 

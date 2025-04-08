@@ -1,6 +1,6 @@
-# EKO-Blockchain
+# EKO
 
-EKO-Blockchain is a next-generation blockchain designed for the AI age, enabling advanced stream payments and seamless integration with intelligent applications.
+EKO is a next-generation platform built for the AI-powered decentralized economy. It brings together an advanced blockchain, a powerful AI framework, and a revolutionary stream payment system — designed to support intelligent applications at scale.
 
 🌐 **Project Website:**  
 [https://echolink.info](https://echolink.info)
@@ -13,4 +13,4 @@ EKO-Blockchain is a next-generation blockchain designed for the AI age, enabling
 
 ---
 
-Welcome to the AI decentralized economy
+Welcome to the AI-powered decentralized economy.

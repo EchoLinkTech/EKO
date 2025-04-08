@@ -9,7 +9,7 @@ EKO is a next-generation blockchain platform built for the AI-powered decentrali
 [https://ev8.online](https://ev8.online)
 
 📄 **Read the Whitepaper:**  
-[EKO: A Next-Generation Blockchain Platform for the AI Age with Advanced Stream Payments](https://github.com/EchoLinkTech/EKO-Blockchain/blob/main/EKO%20Blockchain%3A%20A%20Next-Generation%20Blockchain%20for%20the%20AI%20Age%20with%20Advanced%20Stream%20Payments.md)
+[EKO: A Next-Generation Blockchain Platform for the AI Age with Advanced Stream Payments](https://github.com/EchoLinkTech/EKO/blob/main/EKO-Whitepaper.md)
 
 ---
 

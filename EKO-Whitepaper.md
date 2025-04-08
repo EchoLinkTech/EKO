@@ -179,7 +179,7 @@ EKO Blockchain is built as a Layer 3 solution with specialized blockchain-level 
 
 #### Stream Payment-Specific Blockchain Innovations
 
-- **Microsecond Transaction Finality**: Ultra-fast block confirmation optimized for continuous micropayment streams, enabling real-time financial flows at a granularity impossible on traditional blockchains.
+- **Millisecond Transaction Finality**: Ultra-fast block confirmation optimized for continuous micropayment streams, enabling real-time financial flows at a granularity impossible on traditional blockchains.
 
   *Implementation details:* The consensus algorithm uses a directed acyclic graph (DAG) structure with partial ordering for micropayment transactions:
   
@@ -197,7 +197,7 @@ EKO Blockchain is built as a Layer 3 solution with specialized blockchain-level 
   
   Where:
   - $t_{confirm}$ is the confirmation time
-  - $\mu s$ is the microsecond threshold
+  - $\mu s$ is the millisecond threshold
   - $\lambda$ is the validator response rate parameter
   - $N_{validators}$ is the number of active validators
 
@@ -930,7 +930,7 @@ The governance model aims to enable efficient decision-making while ensuring fai
 
 EKO Blockchain represents a paradigm shift in blockchain technology. By integrating the EV8 AI Framework and the EKO Stream Pay system directly into a specialized Layer 3 blockchain, we've created a revolutionary platform that transcends the capabilities of traditional distributed ledger solutions.
 
-The unique capabilities of this blockchain ecosystem—microsecond-granularity payments, native AI model integration, fair data compensation systems, and autonomous economic agents—enable business models and use cases that were previously impossible on any blockchain. By addressing the fundamental limitations of conventional blockchain technology with specialized infrastructure for AI services and streaming payments, EKO Blockchain removes barriers to innovation and creates entirely new possibilities.
+The unique capabilities of this blockchain ecosystem—millisecond-granularity payments, native AI model integration, fair data compensation systems, and autonomous economic agents—enable business models and use cases that were previously impossible on any blockchain. By addressing the fundamental limitations of conventional blockchain technology with specialized infrastructure for AI services and streaming payments, EKO Blockchain removes barriers to innovation and creates entirely new possibilities.
 
 As we stand at the frontier of this new blockchain paradigm, we invite developers, AI researchers, and users to join us in building the future of blockchain technology. Together, we can unlock the full potential of a truly intelligent blockchain ecosystem that seamlessly merges computation, value transfer, and artificial intelligence into a unified platform for the next generation of decentralized applications.
 
